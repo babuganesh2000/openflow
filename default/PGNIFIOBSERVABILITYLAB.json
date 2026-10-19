@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1792422820281,
+    "description" : "",
+    "identifier" : "PGNIFIOBSERVABILITYLAB",
+    "lastModifiedTimestamp" : 1792422820281,
+    "name" : "PG_NIFI_OBSERVABILITY_LAB",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
