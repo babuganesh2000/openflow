@@ -143,7 +143,22 @@
     "funnels" : [ ],
     "identifier" : "flow-contents-group",
     "inputPorts" : [ ],
-    "labels" : [ ],
+    "labels" : [ {
+      "componentType" : "LABEL",
+      "groupIdentifier" : "flow-contents-group",
+      "height" : 150.0,
+      "identifier" : "e70e498d-a3b3-3594-a522-2ecbd04d3b66",
+      "label" : "some text label",
+      "position" : {
+        "x" : 299.5,
+        "y" : 256.89929962158203
+      },
+      "style" : {
+        "font-size" : "12px"
+      },
+      "width" : 150.0,
+      "zIndex" : 1
+    } ],
     "maxConcurrentTasks" : 1,
     "name" : "PG_NIFI_OBSERVABILITY_LAB",
     "outputPorts" : [ ],
@@ -632,6 +647,6 @@
   "snapshotMetadata" : {
     "author" : "aff526ef-5b10-4e30-8f6e-b17f51352431",
     "flowIdentifier" : "PGNIFIOBSERVABILITYLAB",
-    "timestamp" : 1792422821537
+    "timestamp" : 1792424182475
   }
 }
